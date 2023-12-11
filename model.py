@@ -3,7 +3,7 @@ from typing import List, Union, Dict
 
 class TaskModel:
     """
-    Model class for managing tasks in the Task Reminder application.
+    Model class for managing tasks in the Task Manager application.
 
     Attributes:
         file_path (str): The file path to the CSV file storing tasks.
